@@ -4,6 +4,14 @@ A powerful, lightweight, and open-source Windows optimization tool designed to b
 
 ---
 
+<img width="786" height="591" alt="boosting_process" src="https://github.com/user-attachments/assets/702e9d8f-67bb-418f-9e85-030b2f86e675" />
+
+---
+
+<img width="801" height="599" alt="app_screenshot" src="https://github.com/user-attachments/assets/b0d1384d-4f33-41bf-87e5-cf00cd8ed62f" />
+
+---
+
 ## ✨ Features
 
 - **⚡ Performance Boost:** Optimize CPU, RAM, and disk usage for maximum gaming and productivity speed.
