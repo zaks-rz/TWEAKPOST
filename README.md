@@ -1,14 +1,23 @@
-# 🚀 zaks Tweak Post
+# 🚀 ZAKS TWEAKPOST PRO
 
-A powerful, lightweight, and open-source Windows optimization tool designed to boost performance, enhance privacy, and customize your system setup instantly. **zaks Tweak Post** delivers a seamless experience packed into a single, portable executable file.
+[![Platform](https://shields.io)]()
+[![Type](https://shields.io)]()
+[![License: MIT](https://shields.io)](https://opensource.org)
+
+A powerful, lightweight, and open-source Windows optimization tool designed to boost performance, enhance privacy, and customize your system setup instantly. **ZAKS TWEAKPOST PRO** delivers a seamless experience packed into a single, portable executable file.
 
 ---
 
-<img width="786" height="591" alt="boosting_process" src="https://github.com/user-attachments/assets/702e9d8f-67bb-418f-9e85-030b2f86e675" />
+## 📸 Screenshots
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b0d1384d-4f33-41bf-87e5-cf00cd8ed62f" alt="ZAKS TWEAKPOST PRO Ready State" width="47%" />
+  <img src="https://github.com/user-attachments/assets/702e9d8f-67bb-418f-9e85-030b2f86e675" alt="ZAKS TWEAKPOST PRO Boosting State" width="47%" />
+</p>
 
-<img width="801" height="599" alt="app_screenshot" src="https://github.com/user-attachments/assets/b0d1384d-4f33-41bf-87e5-cf00cd8ed62f" />
+<p align="center">
+  <em>Left: System optimization ready state. Right: Safe system-restore and live diagnostic deployment.</em>
+</p>
 
 ---
 
@@ -27,7 +36,7 @@ A powerful, lightweight, and open-source Windows optimization tool designed to b
 No installation required! Just download and run the executable.
 
 1. Go to the **Releases** section on the right side of this page.
-2. Download the latest `zaks_Tweak_Post.exe`.
+2. Download the latest `ZAKS_TWEAKPOST_PRO.exe`.
 3. Right-click the file and select **Run as Administrator** (required to apply system tweaks).
 
 ---
